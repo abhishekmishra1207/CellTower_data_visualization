@@ -21,7 +21,7 @@
 
 #6 -	Since the sample data (which I have placed in the code folder is some 5k coordinates) it will take some 5-7 seconds to run, once you see the “debugger pin code “  line we can go to a browser and enter this url- http://localhost:5000/mymap/ This will populate the coordinates from the sample output file. I am attaching a screenshot of the output which comes up below:
 
-![Alt text](D:\motionlogic\snap_output.png?raw=true "Optional Title")
+![alt text](https://github.com/abhishekmishra1207/CellTower_data_visualization/blob/master/snap_output.png)
  
 
 ## Advance Challenge- 
